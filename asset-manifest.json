@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/chord-progression-auxiliary/static/css/main.cc62b411.css",
-    "main.js": "/chord-progression-auxiliary/static/js/main.a40bbe22.js",
+    "main.js": "/chord-progression-auxiliary/static/js/main.70339d65.js",
     "static/js/787.0df8b215.chunk.js": "/chord-progression-auxiliary/static/js/787.0df8b215.chunk.js",
     "index.html": "/chord-progression-auxiliary/index.html",
     "main.cc62b411.css.map": "/chord-progression-auxiliary/static/css/main.cc62b411.css.map",
-    "main.a40bbe22.js.map": "/chord-progression-auxiliary/static/js/main.a40bbe22.js.map",
+    "main.70339d65.js.map": "/chord-progression-auxiliary/static/js/main.70339d65.js.map",
     "787.0df8b215.chunk.js.map": "/chord-progression-auxiliary/static/js/787.0df8b215.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cc62b411.css",
-    "static/js/main.a40bbe22.js"
+    "static/js/main.70339d65.js"
   ]
 }
