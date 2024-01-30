@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/chord-progression-auxiliary/static/css/main.a32983db.css",
-    "main.js": "/chord-progression-auxiliary/static/js/main.b4bbbc06.js",
+    "main.css": "/chord-progression-auxiliary/static/css/main.4e12b2b8.css",
+    "main.js": "/chord-progression-auxiliary/static/js/main.36696a6b.js",
     "static/js/787.0df8b215.chunk.js": "/chord-progression-auxiliary/static/js/787.0df8b215.chunk.js",
     "index.html": "/chord-progression-auxiliary/index.html",
-    "main.a32983db.css.map": "/chord-progression-auxiliary/static/css/main.a32983db.css.map",
-    "main.b4bbbc06.js.map": "/chord-progression-auxiliary/static/js/main.b4bbbc06.js.map",
+    "main.4e12b2b8.css.map": "/chord-progression-auxiliary/static/css/main.4e12b2b8.css.map",
+    "main.36696a6b.js.map": "/chord-progression-auxiliary/static/js/main.36696a6b.js.map",
     "787.0df8b215.chunk.js.map": "/chord-progression-auxiliary/static/js/787.0df8b215.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a32983db.css",
-    "static/js/main.b4bbbc06.js"
+    "static/css/main.4e12b2b8.css",
+    "static/js/main.36696a6b.js"
   ]
 }
